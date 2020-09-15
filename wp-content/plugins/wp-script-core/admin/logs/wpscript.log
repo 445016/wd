@@ -1,0 +1,1 @@
+[2020-09-15 19:05:25][error][..\wp-content\plugins\wp-script-core\admin\actions\ajax-check-license-key.php][68] Connection to API (check_license) failed (status: <code>{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 10000 milliseconds"]},"error_data":[]}</code>)
